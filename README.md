@@ -12,7 +12,7 @@ An alert box that displays 'The answer to the ultimate question: 2112'
 
 An alert box that displays 'Undefined'
 
-An alert box that displays 'The answer to the ultimate question: {theAnswer}'
+***An alert box that displays 'The answer to the ultimate question: {theAnswer}'***
 
 
 <hr/>
@@ -44,7 +44,7 @@ An alert box with an empty message
 
 An alert box saying "Just go and Get a Job!"
 
-No alert dialog box but an error instead
+***No alert dialog box but an error instead***
 
 <hr/>
 
@@ -94,12 +94,12 @@ The experimentWithTries() function in the following HTML page throws and catches
 * What will be displayed in the console when the page is loaded in the browser?
 
 
-Starting the process...  
+***Starting the process...  
 Error: Something went wrong
 The inner finally block  
 Error: Error: Something went wrong
 The outer finally block  
-Glad to be done!
+Glad to be done!***
 
 
 Starting the process...  
@@ -163,9 +163,9 @@ The type is: undefined
 The type is: undefined
 The type is: undefined
 
-The type is: string with value 'test'  
+***The type is: string with value 'test'  
 The type is: number with value 5  
-The type is: date with value 8/11/2017  
+The type is: date with value 8/11/2017***  
 
 The type is: string with value 'test'  
 The type is: string with value '5'  
@@ -209,7 +209,7 @@ You have the following HTML page:
 
 * What will be displayed on the screen when the page is loaded in the browser?
 
-Intro to JavaScript
+***Intro to JavaScript***
 
 null
 
@@ -245,7 +245,7 @@ You have the following form (assume it's loaded from http://localhost:35132/Acco
 * Which URL will the form submit?
 
 
-http://localhost:35132/Account/FormTest
+***http://localhost:35132/Account/FormTest***
 
 http://localhost:35132/Account/FormTest?firstName=John&lastName=Doe
 
@@ -301,7 +301,7 @@ You load the following page:
 ```
 * What will result contain?
 
-F1F2F3F4F5F2F3F4F5F5F3F4F5
+***F1F2F3F4F5F2F3F4F5F5F3F4F5***
 
 F1F2F3F5F2F3F5F5F3F5
 
@@ -343,7 +343,7 @@ The body of an HTML page contains the following code:
 
 An error message
 
-A list of random letters between A and F
+***A list of random letters between A and F***
 
 A list of empty spaces
 
@@ -389,4 +389,4 @@ You load the following page in the browser:
 
 111
 
-123
+***123***
